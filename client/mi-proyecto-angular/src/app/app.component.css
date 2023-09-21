@@ -1,0 +1,23 @@
+.menu-title {
+    font-size: 24px;
+    margin-bottom: 20px;
+    color: #333;
+}
+
+.menu-list {
+    list-style-type: none;
+    padding: 0;
+}
+
+.menu-link {
+    text-decoration: none;
+    color: #007BFF;
+    font-size: 18px;
+    margin-bottom: 10px;
+    display: block;
+    transition: color 0.2s;
+}
+
+.menu-link:hover {
+    color: #0056b3;
+}
